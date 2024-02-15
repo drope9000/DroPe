@@ -1,0 +1,127 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #FF0000; 
+}
+
+a:hover {
+    color: #000000; 
+}
+
+
+.no-bullets {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+
+h3 {
+    font-size: 16px;
+    margin-top: 6px;
+    margin-bottom: 20px;
+    line-height: 140%;
+}
+
+.header {
+    background-color: #000000; 
+}
+
+.menu {
+    background-color: #FF0000; 
+}
+
+.header li a {
+    color: #FFFFFF; 
+    margin-left: 20px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.header-area h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.header-area p {
+    text-align: center;
+}
+
+.bgcolor-area {
+    background-color: #000000; 
+    padding-bottom: 60px;
+    color: #FFFFFF; 
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.linha {
+    text-align: center;
+}
+
+.linha hr {
+    width: 300px;
+    margin: 0px auto;
+    border-color: #FF0000; 
+    border-width: 2px;
+}
+
+.row-pre-footer,
+.row-footer {
+    margin: 0 auto;
+}
+
+.pre-footer,
+.footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.row-pre-footer {
+    background-color: #FF0000; 
+}
+
+.row-pre-footer a {
+    color: #FFFFFF; 
+    margin: 10px;
+}
+
+.row-pre-footer .fa-brands,
+.row-pre-footer .fa-solid {
+    font-size: 24px;
+}
+
+.row-pre-footer a:hover {
+    color: #000000; 
+}
+
+.row-footer {
+    background-color: #000000; 
+}
+
+.row-footer a:hover {
+    color: #FFFFFF; 
+}
+
+.detail h1 {
+    margin-top: 40px;
+    color:  #FF0000; 
+}
+
+.detail h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color:  #FF0000; 
+}
